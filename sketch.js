@@ -3,7 +3,7 @@
   	by Mary
 
 	Overview:
-	A time bomb with clickable button game. The timer of bomb will countdown and boom.
+	This is a time bomb game with clickable button. The timer of bomb will countdown and boom.
 
 ------------------------------------------------------------------------------------
 	To use:
@@ -11,6 +11,10 @@
 
 	 <script src="p5.cliackable.js"></script>
  	 <script src="p5.timer.js"></script>
+
+ 	Need help:
+ 	1. the cursor sometime not match when click at the button/ the button not work
+ 	2. cursor states change
 ***********************************************************************************/
 
 //global varible
