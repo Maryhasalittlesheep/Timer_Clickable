@@ -1,14 +1,16 @@
 /***********************************************************************************
 	Timer_Clickable
-  by Maru
+  	by Mary
 
-  Uses the p5.timer.js class to show a 10-second countdown
+	Overview:
+	A time bomb with clickable button game. The timer of bomb will countdown and boom.
 
 ------------------------------------------------------------------------------------
 	To use:
 	Add this line to the index.html
 
-  <script src="p5.timer.js"></script>
+	 <script src="p5.cliackable.js"></script>
+ 	 <script src="p5.timer.js"></script>
 ***********************************************************************************/
 
 //global varible
